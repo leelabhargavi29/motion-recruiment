@@ -97,23 +97,16 @@ Familiarize yourself with key services and features available in the console.
 Explore different services like EC2, S3, RDS, Lambda, etc.
 Part 3: Secure Your AWS Account
 Enable Multi-Factor Authentication (MFA):
-
 Navigate to "IAM" (Identity and Access Management) from the AWS Management Console.
 Set up MFA for your root account for enhanced security.
 Create IAM Users and Groups:
-
 Create individual IAM users for team members instead of sharing root credentials.
 Organize users into groups with appropriate permissions.
 Apply IAM Policies:
-
 Assign policies to IAM users and groups that adhere to the principle of least privilege.
 Optimized Approach:
 Leverage AWS Free Tier: Utilize AWS’s Free Tier offerings to explore and use a range of services without incurring charges. This is especially useful for beginners and initial testing phases.
-
 Security Best Practices: Prioritize setting up security measures such as MFA and IAM policies immediately after account creation to protect sensitive information and resources.
-
 Billing and Monitoring: Regularly monitor your billing and usage through the AWS Billing Dashboard to avoid unexpected charges and stay within budget.
-
 Documentation and Resources: Take advantage of AWS’s extensive documentation, tutorials, and training resources to learn about best practices and service-specific details.
-
 By following these steps, you will be able to successfully create and set up an AWS account. This approach ensures a secure, organized, and efficient start with AWS, making it suitable for both individual projects and larger collaborative efforts.
