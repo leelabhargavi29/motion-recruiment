@@ -25,7 +25,7 @@ Accept the terms and click on the button to complete the registration.
 Part 2: Access the Azure Portal
 Log in to the Azure Portal:
 
-Go to the Azure Portal at https://portal.azure.com/.
+1.Go to the Azure Portal at https://portal.azure.com/.
 Explore the Azure Portal:
 
 Familiarize yourself with the Azure Portal interface where you can manage resources like Virtual Machines, Databases, Storage Accounts, etc.
